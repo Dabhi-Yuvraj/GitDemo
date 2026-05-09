@@ -1,0 +1,25 @@
+git config --global user.name "Dabhi-Yuvraj"
+
+git config --global user.email "dabhiyuvraj1204@gmail.com"
+
+git config --global color.ui auto
+
+
+mandatory commands : 
+git init
+git remote add origin https://github.com/Dabhi-Yuvraj/GitDemo.git
+
+pull request
+git pull origin main
+
+pull file to github
+git status
+
+
+git add 2_GitAndGithubCommands
+
+push all file
+git add .
+git status
+git commit -m "commit message"
+git push
