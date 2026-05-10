@@ -28,3 +28,9 @@ git push
 
 create a new brance
 git checkout -b "brancename"
+git push -u origin day1Brace
+
+
+switch the brance
+git checkout "brancename"
+
